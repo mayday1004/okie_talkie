@@ -2,6 +2,8 @@
 
 模仿 Discord 的聊天應用程序，註冊並登入一組帳號就可以開始與朋友進行文字聊天或視訊通話，還可以即時分享電腦畫面。
 
+演示項目 👉 [Okie_Talkie](https://okietalkie.onrender.com/ 'Okie_Talkie')
+
 ### 功能
 
 1. 透過 Email 邀請好友
